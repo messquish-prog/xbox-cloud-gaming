@@ -31,4 +31,6 @@ crazy games-> https://www.crazygames.com
 
 snap chat-> https://www.snapchat.com
 
-whatsapp -> https://www.whatsapp.com
+whatsapp-> https://www.whatsapp.com
+
+geforce now-> https://www.geforcenow.com 
