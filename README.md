@@ -10,3 +10,9 @@ tiktok-> https://www.tiktok.com
 spotify-> https://www.spotify.com
 
 discord-> https://www.discord.com
+
+youtube-> https://www.youtube.com
+
+google-> https://www.google.com
+
+chatgpt-> https://www.chatgpt.com
