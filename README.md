@@ -20,3 +20,15 @@ chatgpt-> https://www.chatgpt.com
 rocket league-> https://www.rocketleague.com
 
 epic games launcher-> https://www.epicgames.com
+
+netflix-> https://www.netflix.com
+
+disney plus-> https://www.disneyplus.com
+
+hulu-> https://www.hulu.com
+
+crazy games-> https://www.crazygames.com
+
+snap chat-> https://www.snapchat.com
+
+whatsapp -> https://www.whatsapp.com
