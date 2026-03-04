@@ -7,4 +7,6 @@ roblox-> https://www.roblox.com
 
 tiktok-> https://www.tiktok.com
 
-https://www.spotify.com
+spotify-> https://www.spotify.com
+
+discord-> https://www.discord.com
