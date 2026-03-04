@@ -18,3 +18,5 @@ google-> https://www.google.com
 chatgpt-> https://www.chatgpt.com
 
 rocket league-> https://www.rocketleague.com
+
+epic games launcher-> https://www.epicgames.com
