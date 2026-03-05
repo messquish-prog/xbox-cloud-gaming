@@ -34,3 +34,8 @@ snap chat-> https://www.snapchat.com
 whatsapp-> https://www.whatsapp.com
 
 geforce now-> https://www.geforcenow.com 
+
+new link instagram-> https://www.instagram.com
+
+https://www.tiktok.com
+
