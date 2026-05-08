@@ -41,3 +41,7 @@ https://www.tiktok.com
 
 file:///media/archive/CineOS-main%20(1).zip/CineOS-main/index.html
 
+https://slayer2crazy.freeddns.us/
+
+https://browser.lol/en
+
