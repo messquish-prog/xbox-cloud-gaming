@@ -46,3 +46,5 @@ https://slayer2crazy.freeddns.us/
 https://browser.lol/en
 
 edx8isgY
+
+best unblocked web engine https://edulearn-school.global.ssl.fastly.net
