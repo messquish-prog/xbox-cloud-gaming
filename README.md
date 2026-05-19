@@ -48,3 +48,5 @@ https://browser.lol/en
 edx8isgY
 
 best unblocked web engine https://edulearn-school.global.ssl.fastly.net
+
+another one https://lurk.affable-lurking.org/
